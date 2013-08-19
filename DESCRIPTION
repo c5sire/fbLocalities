@@ -18,4 +18,4 @@ Depends:
     testthat,
     xtable
 Collate:
-    ''
+    'fbLocalities.R'
