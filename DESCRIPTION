@@ -1,0 +1,21 @@
+Package: fbLocalities
+Type: Package
+Title: Tools for managing localities for fieldbooks
+Version: 0.1.1
+Date: 2013-08-19
+Author: Reinhard Simon
+Maintainer: "Simon, Reinhard (CIP)" <R.SIMON@CGIAR.ORG>
+Description: Create and modify localities
+License: GPL (>=3)
+LazyData: yes
+Suggests:
+    shiny
+VignetteBuilder: knitr
+Depends:
+    R (>= 3.0.1),
+    stringr,
+    shiny,
+    testthat,
+    xtable
+Collate:
+    ''
